@@ -1,0 +1,50 @@
+- Chú ý các phần mới:
+    + Tự cập nhật đường dẫn tĩnh
+    + Chọn user bằng cách nhấp chọn vào link
+    + ckfinder & ckeditor
+    + Nhân bản dịch vụ
+    + Trang hiển thị và trang thêm, sửa chung một giao diện
+
+01. Thiết kế database
+
+02. Xây dựng cấu trúc thư mục, file
+
+03. Code chức năng điều hướng modules (routes) - Phần 1
+
+04. Code chức năng điều hướng modules (routes) - Phần 2
+
+05. Tích hợp giao diện bootstrap - Phần 1
+
+06. Tích hợp giao diện bootstrap - Phần 2
+
+07. Kết nối database va viet ham xu ly database
+
+08. Viết các hàm xử lý session
+
+09. Viết hàm gửi email
+
+10. Viết các hàm filter, validate
+
+11. Hàm password_hash và password_verify
+
+12. Tính hợp chức năng đăng nhập
+
+13. Hiển thị lời chào - chức năng đăng xuất
+
+14. Chức năng cập nhật thông tin cá nhân - đổi mật khẩu
+
+15. Chức năng hiện thị danh sách - Group users
+
+16. Thêm, xóa sửa nhóm - Group users
+
+17. Hiển thị danh sách, thêm, xóa, sửa user - User
+
+18. Hiển thị danh sách, thêm, xóa, sửa, nhân bản dịch vụ - Services
+
+19. Hiển thị danh sách, thêm, xóa, sửa, nhân bản trang - Pages
+
+20. Xây dựng giao diện cho danh mục dự án - Porfolio Categories
+
+21.  Hiển thị danh sách, thêm, xóa, sửa, nhân bản danh mục dự án - Porfolio Categories
+
+22.  Hiển thị danh sách, thêm, xóa, sửa, nhân bản dự án - Categories
